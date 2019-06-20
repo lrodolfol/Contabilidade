@@ -1,0 +1,58 @@
+
+#wb_header { height: 200px; }
+#wb_header > .wb_cont_bg { background: transparent none repeat scroll left top; }
+#wb_main { height: 970px; padding-bottom: 50px; }
+#wb_main > .wb_cont_bg { background: transparent none repeat scroll left top; }
+#wb_footer { height: 74px; }
+#wb_footer > .wb_cont_bg { background: transparent none repeat-x scroll left top; }
+body { background: transparent url("../gallery_gen/1975473a4c18db22382067830d921be6.jpg") no-repeat scroll center top; }
+.wb_sbg { background: transparent none repeat-x scroll left top; }
+body, .wb_sbg { min-width: 1200px; min-height: 1244px; }
+.wb_cont_inner { width: 1200px; }
+.wb_cont_bg { width: 1200px; margin-left: -600px; }
+.root { height: 1244px; overflow: visible; min-height: 1244px; }
+#wb_element_instance16 { top: 83px; left: 720px; min-width: 470px; width: 470px; min-height: 36px; height: 36px; display: block; z-index: 370; }
+#wb_element_instance16 > ul { display: block; }
+#wb_element_instance16 ul { background: transparent none repeat scroll right top; border: 1px none #000000; }
+#wb_element_instance16, #wb_element_instance16 ul { text-align: right; }
+#wb_element_instance16 ul ul { background: transparent none repeat scroll right top; }
+#wb_element_instance16 li { margin: 0px 0px 0px 20px; }
+#wb_element_instance16 li a { text-transform: uppercase; border: 0px none #000000; padding: 10px 20px 10px 0px; font: normal bold 14px Arial,Helvetica,sans-serif; text-decoration: none; color: #ffffff; line-height: 16px; background: transparent none no-repeat scroll center top; }
+#wb_element_instance16 li.over > a, #wb_element_instance16 li:focus > a { border: 0px none #000000; font: normal bold 14px Arial,Helvetica,sans-serif; text-decoration: underline; color: #ffffff; line-height: 16px; background: transparent none no-repeat scroll center center; }
+#wb_element_instance16 li.active > a { border: 2px none #ba37ba; font: normal bold 14px Arial,Helvetica,sans-serif; text-decoration: underline; color: #b7a74e; line-height: 16px; background: transparent none repeat scroll center center; }
+#wb_element_instance16:not(.collapse-expanded) .vmenu ul.open-left,#wb_element_instance16:not(.collapse-expanded) .hmenu ul.open-left { left: auto; right: 100%; }
+#wb_element_instance16:not(.collapse-expanded) .hmenu > li > ul.open-left { left: auto; right: 0; }
+#wb_element_instance17 { top: 50px; left: 10px; min-width: 60px; width: 60px; min-height: 100px; height: 100px; display: block; z-index: 165; overflow: hidden; }
+#wb_element_instance17 img { width: 100px; height: 100px; display: block; position: relative; left: 0px; top: 0px; max-width: inherit; }
+#wb_element_instance18 { top: 68px; left: 78px; min-width: 640px; width: 640px; min-height: 66px; height: 66px; display: block; z-index: 166; }
+#wb_element_instance19 { top: 20px; left: 10px; min-width: 450px; width: 450px; min-height: 24px; height: 24px; display: block; z-index: 173; }
+#wb_element_instance20 { top: 260px; left: 310px; min-width: 870px; width: 870px; min-height: 290px; height: 290px; display: block; z-index: 60; }
+#wb_element_instance21 { top: 84px; left: 10px; min-width: 1180px; width: 1180px; min-height: 82px; height: 82px; display: block; z-index: 61; }
+#wb_element_instance22 { top: 0px; left: 10px; min-width: 1180px; width: 1180px; min-height: 67px; height: 67px; display: block; z-index: 63; }
+#wb_element_instance23 { top: 250px; left: 40px; min-width: 220px; width: 220px; min-height: 280px; height: 280px; display: block; z-index: 64; overflow: hidden; }
+#wb_element_instance23 img { width: 300px; height: 300px; display: block; position: relative; left: -40px; top: -20px; max-width: inherit; }
+#wb_element_instance24 { top: 610px; left: 20px; min-width: 260px; width: 260px; min-height: 240px; height: 240px; display: block; z-index: 65; overflow: hidden; }
+#wb_element_instance24 img { width: 300px; height: 300px; display: block; position: relative; left: -20px; top: -30px; max-width: inherit; }
+#wb_element_instance25 { top: 620px; left: 310px; min-width: 880px; width: 880px; min-height: 290px; height: 290px; display: block; z-index: 62; }
+#wb_element_instance26 { top: 220px; left: 0px; min-width: 1200px; width: 1200px; min-height: 700px; height: 700px; display: block; z-index: 59; }
+#wb_element_instance26 > .wb_shp { background: #ffffff; border: 0px solid #C0C0C0; opacity: 1; border-radius: 0px 0px 0px 0px; -moz-border-radius: 0px 0px 0px 0px; -webkit-border-radius: 0px 0px 0px 0px; width: 1200px; height: 700px; }
+#wb_element_instance27 { top: 890px; left: 0px; display: block; z-index: 9000; }
+#wb_element_instance28 { top: 64px; left: 0px; display: block; z-index: 9999; }
+
+
+#wb_element_instance18 p:last-child { margin-bottom: 0; }
+#wb_element_instance19 p:last-child { margin-bottom: 0; }
+#wb_element_instance20 p:last-child { margin-bottom: 0; }
+#wb_element_instance21 p:last-child { margin-bottom: 0; }
+#wb_element_instance22 p:last-child { margin-bottom: 0; }
+#wb_element_instance25 p:last-child { margin-bottom: 0; }
+
+
+@media (min-width: 768px) {
+}
+
+@media (min-width: 992px) {
+}
+
+@media (max-width: 767px) {
+}

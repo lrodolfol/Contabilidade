@@ -1,0 +1,11 @@
+body {
+  background-color:#eee;
+  -webkit-font-smoothing: antialiased;
+  font: normal 14px Roboto,arial,sans-serif;
+}
+
+.container {
+    padding: 25px;
+    position: fixed;
+    margin: 10% 30% 0% 30%;
+}

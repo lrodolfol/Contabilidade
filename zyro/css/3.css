@@ -1,0 +1,57 @@
+
+#wb_header { height: 200px; }
+#wb_header > .wb_cont_bg { background: transparent none repeat scroll left top; }
+#wb_main { height: 970px; padding-bottom: 50px; }
+#wb_main > .wb_cont_bg { background: transparent none repeat scroll left top; }
+#wb_footer { height: 74px; }
+#wb_footer > .wb_cont_bg { background: transparent none repeat-x scroll left top; }
+body { background: transparent url("../gallery_gen/1975473a4c18db22382067830d921be6.jpg") no-repeat scroll center top; }
+.wb_sbg { background: transparent none repeat-x scroll left top; }
+body, .wb_sbg { min-width: 1200px; min-height: 1244px; }
+.wb_cont_inner { width: 1200px; }
+.wb_cont_bg { width: 1200px; margin-left: -600px; }
+.root { height: 1244px; overflow: visible; min-height: 1244px; }
+#wb_element_instance29 { top: 83px; left: 720px; min-width: 470px; width: 470px; min-height: 36px; height: 36px; display: block; z-index: 370; }
+#wb_element_instance29 > ul { display: block; }
+#wb_element_instance29 ul { background: transparent none repeat scroll right top; border: 1px none #000000; }
+#wb_element_instance29, #wb_element_instance29 ul { text-align: right; }
+#wb_element_instance29 ul ul { background: transparent none repeat scroll right top; }
+#wb_element_instance29 li { margin: 0px 0px 0px 20px; }
+#wb_element_instance29 li a { text-transform: uppercase; border: 0px none #000000; padding: 10px 20px 10px 0px; font: normal bold 14px Arial,Helvetica,sans-serif; text-decoration: none; color: #ffffff; line-height: 16px; background: transparent none no-repeat scroll center top; }
+#wb_element_instance29 li.over > a, #wb_element_instance29 li:focus > a { border: 0px none #000000; font: normal bold 14px Arial,Helvetica,sans-serif; text-decoration: underline; color: #ffffff; line-height: 16px; background: transparent none no-repeat scroll center center; }
+#wb_element_instance29 li.active > a { border: 2px none #ba37ba; font: normal bold 14px Arial,Helvetica,sans-serif; text-decoration: underline; color: #b7a74e; line-height: 16px; background: transparent none repeat scroll center center; }
+#wb_element_instance29:not(.collapse-expanded) .vmenu ul.open-left,#wb_element_instance29:not(.collapse-expanded) .hmenu ul.open-left { left: auto; right: 100%; }
+#wb_element_instance29:not(.collapse-expanded) .hmenu > li > ul.open-left { left: auto; right: 0; }
+#wb_element_instance30 { top: 50px; left: 10px; min-width: 60px; width: 60px; min-height: 100px; height: 100px; display: block; z-index: 165; overflow: hidden; }
+#wb_element_instance30 img { width: 100px; height: 100px; display: block; position: relative; left: 0px; top: 0px; max-width: inherit; }
+#wb_element_instance31 { top: 68px; left: 78px; min-width: 640px; width: 640px; min-height: 66px; height: 66px; display: block; z-index: 166; }
+#wb_element_instance32 { top: 20px; left: 10px; min-width: 450px; width: 450px; min-height: 24px; height: 24px; display: block; z-index: 173; }
+#wb_element_instance33 { top: 0px; left: 10px; min-width: 1180px; width: 1180px; min-height: 67px; height: 67px; display: block; z-index: 73; }
+#wb_element_instance34 form .form-area-field { height: 186px; }
+#wb_element_instance34 { top: 250px; left: 390px; min-width: 800px; width: 800px; min-height: 300px; height: 300px; display: block; z-index: 79; }
+#wb_element_instance35 { top: 250px; left: 11px; min-width: 350px; width: 350px; min-height: 204px; height: 204px; display: block; z-index: 80; }
+#wb_element_instance36 { top: 580px; left: 0px; min-width: 1200px; width: 1200px; min-height: 330px; height: 330px; display: block; z-index: 81; }
+#wb_element_instance37 { top: 230px; left: 0px; min-width: 1200px; width: 1200px; min-height: 690px; height: 690px; display: block; z-index: 72; }
+#wb_element_instance37 > .wb_shp { background: #ffffff; border: 0px solid #C0C0C0; opacity: 1; border-radius: 0px 0px 0px 0px; -moz-border-radius: 0px 0px 0px 0px; -webkit-border-radius: 0px 0px 0px 0px; width: 1200px; height: 690px; }
+#wb_element_instance38 { top: 910px; left: 0px; display: block; z-index: 9000; }
+#wb_element_instance39 { top: 64px; left: 0px; display: block; z-index: 9999; }
+
+
+#wb_element_instance31 p:last-child { margin-bottom: 0; }
+#wb_element_instance32 p:last-child { margin-bottom: 0; }
+#wb_element_instance33 p:last-child { margin-bottom: 0; }
+#wb_element_instance34 form td { text-align: right; }
+#wb_element_instance34 form tr.area-row > th { height: 1%; }
+#wb_element_instance34 form tr.area-row > td { height: 1%; }
+#wb_element_instance34 form tr.form-footer > td { height: 20px; }
+#wb_element_instance35 p:last-child { margin-bottom: 0; }
+
+
+@media (min-width: 768px) {
+}
+
+@media (min-width: 992px) {
+}
+
+@media (max-width: 767px) {
+}
